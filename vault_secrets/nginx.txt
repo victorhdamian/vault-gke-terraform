@@ -1,0 +1,5 @@
+{
+  "nginx_tokenSecret": "",
+  "nginx_clientSecret": "",
+  "nginx_clientId": ""
+}
