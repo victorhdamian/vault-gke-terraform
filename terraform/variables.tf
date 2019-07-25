@@ -219,8 +219,8 @@ variable "kubernetes_master_authorized_networks" {
 
   default = [
     {
-      display_name = "victor hm"
-      cidr_block   = "24.198.221.23/32"
+      display_name = "your_ip"
+      cidr_block   = "yout_ip/32"
     }
   ]
 
